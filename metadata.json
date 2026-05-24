@@ -1,0 +1,6 @@
+{
+  "name": "Digital Habitat School MGM System",
+  "description": "A complete modern premium School Management System with fully interactive modules for students, teachers, classes, attendance, exams, library, parent portal, settings, and an integrated AI chatbot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
